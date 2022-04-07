@@ -117,7 +117,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #4acaa8 !important;
+			color: #35aad6 !important;
 		}
 
 	strong, b {
@@ -2808,7 +2808,11 @@ input, select, textarea {
 
 						#header > nav ul li a.active {
 							background: #fff;
+<<<<<<< HEAD
 							color: #35aad6 !important;
+=======
+							color: #35aad6 !important;
+>>>>>>> 2963589f37fdd37cfad32e57a2aa78c81a352523
 						}
 
 					#header > nav ul li:first-child {
