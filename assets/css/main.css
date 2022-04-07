@@ -117,7 +117,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #35aad6 !important;
+			color: #35AAD6 !important;
 		}
 
 	strong, b {
@@ -1971,19 +1971,19 @@ input, select, textarea {
 	}
 
 	:-moz-placeholder {
-		color: #aaa !important;
+		color: #aaa ;
 		font-style: italic;
 		opacity: 1.0;
 	}
 
 	::-moz-placeholder {
-		color: #aaa !important;
+		color: #aaa ;
 		font-style: italic;
 		opacity: 1.0;
 	}
 
 	:-ms-input-placeholder {
-		color: #aaa !important;
+		color: #aaa ;
 		font-style: italic;
 		opacity: 1.0;
 	}
@@ -2025,7 +2025,7 @@ input, select, textarea {
 			font-variant: normal;
 			text-rendering: auto;
 			line-height: 1;
-			text-transform: none !important;
+			text-transform: none ;
 			font-family: 'Font Awesome 5 Free';
 			font-weight: 400;
 		}
@@ -2328,7 +2328,7 @@ input, select, textarea {
 				-ms-flex-direction: column;
 				flex-direction: column;
 				margin-left: 0;
-				width: 100% !important;
+				width: 100% ;
 			}
 
 				ul.actions:not(.fixed) li {
@@ -2396,7 +2396,7 @@ input, select, textarea {
 				font-variant: normal;
 				text-rendering: auto;
 				line-height: 1;
-				text-transform: none !important;
+				text-transform: none ;
 				font-family: 'Font Awesome 5 Free';
 				font-weight: 400;
 			}
@@ -2429,7 +2429,7 @@ input, select, textarea {
 		}
 
 			ul.icons li:last-child {
-				padding-right: 0 !important;
+				padding-right: 0 ;
 			}
 
 			ul.icons li .icon:before {
@@ -2521,7 +2521,7 @@ input, select, textarea {
 		background-color: #989898;
 		border-radius: 5px;
 		border: 0;
-		color: #ffffff !important;
+		color: #ffffff ;
 		cursor: pointer;
 		display: inline-block;
 		font-weight: 700;
@@ -2538,7 +2538,7 @@ input, select, textarea {
 		input[type="button"]:hover,
 		.button:hover {
 			background-color: #a5a5a5;
-			color: #ffffff !important;
+			color: #ffffff ;
 		}
 
 		input[type="submit"]:active,
@@ -2589,7 +2589,7 @@ input, select, textarea {
 		.button.alt {
 			background-color: transparent;
 			box-shadow: inset 0 0 0 2px #e4e4e4;
-			color: #777 !important;
+			color: #777 ;
 		}
 
 			input[type="submit"].alt:hover,
@@ -2808,11 +2808,7 @@ input, select, textarea {
 
 						#header > nav ul li a.active {
 							background: #fff;
-<<<<<<< HEAD
-							color: #35aad6 !important;
-=======
-							color: #35aad6 !important;
->>>>>>> 2963589f37fdd37cfad32e57a2aa78c81a352523
+							color: #35AAD6 !important;
 						}
 
 					#header > nav ul li:first-child {
